@@ -19,6 +19,7 @@ Input: s = "3[a2[c]]"
 Output: "accaccacc"
 
 ## My code result
+![Code Result](https://github.com/nogibjj/yikai-week5-mini-project/blob/main/Week5mini.png)
 
 
 
